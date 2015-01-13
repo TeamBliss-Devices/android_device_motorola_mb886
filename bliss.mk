@@ -1,5 +1,5 @@
-# Inherit some common CM stuff.
-$(call inherit-product, vendor/cm/config/common_full_phone.mk)
+# Inherit some common Bliss stuff.
+$(call inherit-product, vendor/bliss/config/common_full_phone.mk)
 
 DEVICE_PACKAGE_OVERLAYS += device/motorola/qcom-common/overlay-cm
 
@@ -12,7 +12,7 @@ PRODUCT_COPY_FILES += \
 TARGET_SCREEN_WIDTH := 720
 TARGET_SCREEN_HEIGHT := 1280
 
-PRODUCT_NAME := cm_mb886
+PRODUCT_NAME := bliss_mb886
 TARGET_VENDOR_PRODUCT_NAME := MB886_att
 TARGET_VENDOR_DEVICE_NAME := qinara
 
