@@ -1,7 +1,7 @@
 [
   {
     "remote": "cm",
-    "repository": "android_device_motorola_moto_msm8960_jbbl",
+    "repository": "android_device_motorola_msm8960_jbbl-common",
     "target_path": "device/motorola/msm8960_jbbl-common",
     "revision": "cm-12.0"
   }
