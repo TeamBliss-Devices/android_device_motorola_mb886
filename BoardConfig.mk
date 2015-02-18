@@ -39,3 +39,4 @@ DEVICE_RESOLUTION := 720x1280
 
 # BlissPop Configs
 BLISSIFY := true
+TARGET_GCC_VERSION_EXP := 4.9-sm
