@@ -73,5 +73,9 @@
          to maximize power savings but not all devices support it.
          Refer to power.h for details. -->
     <bool name="config_powerDecoupleInteractiveModeFromDisplay">false</bool>
+    
+    <!-- Does the notification LED support multiple colors?
+         Used to decide if the user can change the colors -->
+    <bool name="config_multiColorNotificationLed">true</bool>
 </resources>
 
