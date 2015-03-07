@@ -10,3 +10,8 @@ persist.rild.nitz_short_ons_2=
 persist.rild.nitz_short_ons_3=
 ro.product.device=Motorola
 ro.product.model=Atrix HD
+
+# GCC Build Prop Lines
+ro.sm.flags=Krait
+ro.sm.android=4.8-Linaro
+ro.sm.kernel=4.8-SaberMod
